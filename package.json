@@ -19,13 +19,18 @@
     "node": ">= 6"
   },
   "homepage": "https://github.com/reshape/beautify",
+  "keywords": [
+    "beautify",
+    "indent",
+    "reshape-plugin"
+  ],
   "license": "MIT",
   "main": "lib",
   "repository": "reshape/beautify",
   "scripts": {
-    "test": "nyc ava",
-    "lint": "standard | snazzy",
     "coverage": "nyc ava && nyc report --reporter=html && open ./coverage/index.html",
-    "coveralls": "nyc report --reporter=text-lcov | coveralls"
+    "coveralls": "nyc report --reporter=text-lcov | coveralls",
+    "lint": "standard | snazzy",
+    "test": "nyc ava"
   }
 }

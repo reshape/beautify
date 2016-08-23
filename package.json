@@ -1,7 +1,7 @@
 {
   "name": "reshape-beautify",
   "description": "a reshape plugin that pretty-prints your html",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "reshape",
   "ava": {
     "verbose": "true"

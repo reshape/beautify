@@ -1,4 +1,4 @@
-# reshape-beautify
+# Reshape Beautify
 
 [![npm](https://img.shields.io/npm/v/reshape-beautify.svg?style=flat-square)](https://npmjs.com/package/reshape-beautify)
 [![tests](https://img.shields.io/travis/reshape/beautify.svg?style=flat-square)](https://travis-ci.org/reshape/beautify?branch=master)

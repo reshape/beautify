@@ -9,6 +9,10 @@ test('basic', (t) => {
   return compare(t, 'basic')
 })
 
+test('inline_code', (t) => {
+  return compare(t, 'inline_code')
+})
+
 test('strips and replaces existing indentation', (t) => {
   return compare(t, 'bad_indents')
 })

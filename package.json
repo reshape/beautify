@@ -9,7 +9,7 @@
   "bugs": "https://github.com/reshape/beautify/issues",
   "devDependencies": {
     "ava": "^0.18.1",
-    "coveralls": "^2.11.12",
+    "coveralls": "^3.0.0",
     "nyc": "^10.0.0",
     "reshape": "^0.5.0",
     "snazzy": "^6.0.0",
